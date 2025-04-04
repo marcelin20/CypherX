@@ -8,7 +8,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your CypherX session id here; must start with XPLOADER-BOT:~ (Yes, it's like a secret agent code. Don’t mess it up!)",
-      "value": "",
+      "value": "XPLOADER-BOT:~XjhyyIbD#Bbm_q9JlswQaQ99vyyM8pybIUDl9G4z8DH14BOQh-RA",
       "required": false
     },
     "BOT_NAME": {
@@ -18,12 +18,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code (e.g., 2547xxxxxxxx, because even bots need to know how to reach you!)",
-      "value": "",
+      "value": "50943014849",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here (Who’s the boss behind the scenes? Spoiler: It's you!)",
-      "value": "",
+      "value": "bat boy",
       "required": true
     },
     "TIMEZONE": {
